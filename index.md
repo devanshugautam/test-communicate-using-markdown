@@ -14,6 +14,10 @@ In this example, the language identifier is `python`. This tells the Markdown pr
 
 I hope this helps!
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 
 
 
